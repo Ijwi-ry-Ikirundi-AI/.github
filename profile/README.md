@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/sama-ndari/kirundi-contribution-app/main/icon.png" alt="Ijwi ry'Ikirundi AI Logo" width="150" height="150">
+<img src="https://raw.githubusercontent.com/sama-ndari/kirundi-contribution-app/main/icon.png" alt="Ijwi ry'Ikirundi AI Logo" width="150" height="150">
 <h1 align="center">Bienvenue sur Ijwi ry'Ikirundi AI 🇧🇮</h1>
 <p align="center">
 Notre mission : construire le premier dataset ouvert et à grande échelle pour la langue Kirundi.
