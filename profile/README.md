@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sama-ndari/kirundi-contribution-app/main/static/icon.png" alt="Ijwi ry'Ikirundi AI Logo" width="150">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sama-ndari/kirundi-contribution-app/main/static/icon.png" alt="Ijwi ry'Ikirundi AI Logo" width="150" style="border-radius: 50%;">
+</p>
 
 <h1>Bienvenue sur <strong>Ijwi ry'Ikirundi AI</strong> 🇧🇮</h1>
 
